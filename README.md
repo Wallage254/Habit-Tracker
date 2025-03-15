@@ -46,19 +46,5 @@ A habit tracker app, built with Flutter and SQLite.
 ![habit-tracker-preview-02](https://user-images.githubusercontent.com/64162701/220111002-78ab877e-f15f-4230-9506-cec1f0a72a4c.jpg)
 
 
-## 🚚 Getting Started
-
-Clone this repository and run pubspec.yaml to install the dependencies.
-```
-git clone https://github.com/LeonardoBringel/HabitTracker .
-flutter create .
-```
 
 
-## 📄 License
-
-This project is MIT licensed, as found in the [LICENSE](./LICENSE) file.
-
-### 👽 Third-Party Content 
-
-The [spooky_ghost](./assets//images//spooky_ghost.png) image is provided by [Alpár-Etele Méder](https://www.iconfinder.com/pocike/icon-sets).
